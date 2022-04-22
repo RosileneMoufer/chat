@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442732132976",
+    "project_id": "simple-prototype-chat",
+    "storage_bucket": "simple-prototype-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442732132976:android:c0cc097632a0a6d79492b5",
+        "android_client_info": {
+          "package_name": "com.example.romoufer.chat.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442732132976-4gah3h7ggh8votlh3ulkmfgdj1avlk7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9J7DcFUJ4iRsjZk96XMZgx7fdSwPC7x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442732132976-4gah3h7ggh8votlh3ulkmfgdj1avlk7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
