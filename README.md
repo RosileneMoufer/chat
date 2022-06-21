@@ -1,16 +1,6 @@
 # chat
 
-Simple chat in Flutter and Firebase.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Desenvolvimento de um chat simples com Flutter e Firebase.
+Neste projeto aprendi como utilizar FirebaseAnimatedList, uma classe do Firebase que auxilia na busca e exibição de dados vindo do banco no Firebase, criando e controlando um container com scroll a medida que os itens são inseridos ou removidos, com isso, não há utilidade de utilizar a função setState().
+Utilizei o Firebase Realtime Database como backend para que as mensagens em tempo real apareçam sejam exibidas para o usuário quando salvas no BD (stream).
+A função setState() é utilizada para limpar o input quando a mensagem for enviada pelo usuário.
